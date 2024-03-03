@@ -9,6 +9,5 @@
     <link rel="stylesheet" href="/assets/index.css">
   </head>
   <body>
-    <div id="app"></div>
   </body>
 </html>
